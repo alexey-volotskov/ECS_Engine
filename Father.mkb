@@ -1,0 +1,48 @@
+#!/usr/bin/env mkb
+files
+{
+    Father.cpp
+
+	(engine)
+	[engine]
+	Engine.h
+	Engine.cpp
+
+	ISystem.h
+
+	MoveSystem.h
+	MoveSystem.cpp
+
+	RenderSystem.h
+	RenderSystem.cpp
+
+	IComponent.h
+
+	TransformComponent.h
+	TransformComponent.cpp
+
+	VelocityComponent.h
+	VelocityComponent.cpp
+
+	DisplayComponent.h
+	DisplayComponent.cpp
+
+	IEntity.h
+	IEntity.cpp
+}
+
+subprojects
+{
+    iwutil
+	iw2d
+}
+
+deployment
+{
+}
+
+assets
+{
+    (data)
+    sda.jpg
+}

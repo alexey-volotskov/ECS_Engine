@@ -1,0 +1,1 @@
+VC14_WP81TOOLSET;build_father_vc14_wp81toolset;

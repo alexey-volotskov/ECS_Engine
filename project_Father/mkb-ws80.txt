@@ -1,0 +1,1 @@
+VC11_WS8TOOLSET;build_father_vc11_ws8toolset;

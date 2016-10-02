@@ -1,0 +1,1 @@
+VC14_WP8TOOLSET;build_father_vc14_wp8toolset;
